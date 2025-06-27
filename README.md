@@ -1,8 +1,9 @@
 <h1>erste Internetseite</h1>
 
 <h2>Beschreibung</h2>
-
-<br />
+Dieses Projekt handelt über eine Internetseite mit dem Titel "Wie holt man das Maximum aus Büchern heraus?". 
+Der Code dieses Projekts enthält, neben seinen relativ überschaubaren Elementen, einen kleinen Höhepunkt, und zwar eine <b>aufklappbare Liste</b>: Diese wurde u. a. mittels JavaScript konzipiert.
+<br/>
 
 <h2>Languages and Utilities Used</h2>
 
