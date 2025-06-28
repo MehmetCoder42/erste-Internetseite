@@ -15,10 +15,4 @@ Der Code dieses Projekts enthält, neben seinen relativ überschaubaren Elemente
 
 - <b>Windows 11</b> (24H2)
 
-<h2>Projekt-Einblick:</h2>
 
-<p align="center">
-
-Klicke <a href="https://mehmetcoder42.github.io/erste-Internetseite/">hier</a>, um zur Internetseite zu gelangen
-
-</p>
