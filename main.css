@@ -1,0 +1,166 @@
+html{
+  scroll-behavior: smooth;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin: 0 auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 120px;
+    width: 1200px;
+
+
+  background-color: rgb(168, 92, 5);
+    }
+
+a{
+  text-decoration: none;
+  color: #000000;
+}
+
+a:hover{
+  color: #0000009f;
+}
+
+h1{
+    color: rgb(0, 0, 0);
+    }
+
+h2{
+  max-width: 990px;
+  margin: 0 auto;
+  margin-top: 0px;
+  padding: 21px;
+  
+}
+
+
+li{
+  max-width: 1024px;
+  margin: 0 auto;
+  flex-direction: column;
+  list-style-type: disc;
+  list-style-position: inside;
+
+}
+
+h3{
+  max-width: 1024px;
+  margin: 0 auto;
+
+}
+
+p{
+  max-width: 990px;
+  margin: 0 auto;
+
+}  
+
+hr{
+  max-width: 1024px;
+  margin: 0 auto;
+  border-color: rgb(121, 62, 14);
+}
+  
+
+blockquote{
+  max-width: 1024px;
+  margin: 0 auto;
+  padding-left: 6rem;
+}
+
+.Fazit{
+  margin-bottom: 200px;
+}
+
+.bücher{
+  max-width: 1024px;
+  margin: 30px auto;
+  box-shadow: 1px 2px 15px 5px #000000;
+
+}
+
+body{
+  background-color: rgb(121, 62, 14);
+}
+
+.primär{
+  background-color: rgb(168, 92, 5);
+  width: 1200px;
+  margin: 0 auto;
+  
+}
+
+.box{
+  background-color: rgb(168, 92, 5);
+  display: flex;
+  justify-self: center;
+  width: 1200px;
+}
+
+.einzug{
+  text-indent: 21px;
+}
+
+.Edmund{
+    box-shadow: 1px 2px 15px 5px #000000;
+}
+
+
+
+.aufklappbar{
+    --xy-padding: 14px;
+    --border-radius: 6px;
+    --transition-ms: 0.3s;
+
+      max-width: 633px;
+      margin-left: 88px;
+}
+
+.aufklappbar--open .aufklappbarer__inhalt-verpacker{
+    grid-template-rows: 1fr;
+}
+
+.aufklappbar--open .aufklappbarer__icon{
+    transform: rotate(-90deg);
+}
+
+.aufklappbare__titelleiste{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: var(--xy-padding);
+  background-color: rgb(168, 92, 5);
+      border: 1px solid #000000;
+    font-weight: bold;
+    font-size: x-large;
+
+    color: #000000;
+    cursor: pointer;
+    border-radius: var(--border-radius) var(--border-radius) 0 0;
+
+}
+
+
+.aufklappbarer__icon{
+    transition: transform var(--transition-ms);
+}
+
+.aufklappbarer__inhalt{
+    padding: 0 var(--xy-padding);
+
+    border: 1px solid #000000;
+    border-top: none;
+    border-radius: 0 0 var(--border-radius) var(--border-radius);
+    overflow: hidden;
+}
+
+.aufklappbarer__inhalt-verpacker{
+    display: grid;
+    grid-template-rows: 0fr;
+    transition: grid-template-rows var(--transition-ms) ease-out;
+}
