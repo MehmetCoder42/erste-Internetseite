@@ -18,8 +18,9 @@ Der Code dieses Projekts enthält, neben seinen relativ überschaubaren Elemente
 <h2>Projekt-Einblick:</h2>
 
 <p align="center">
-<img src="Screenshot 2025-06-28 150624.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 <img src="Screenshot 2025-06-28 161111.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Screenshot 2025-06-28 150624.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="Screenshot 2025-06-28 150652.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="Screenshot 2025-06-28 150711.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="Screenshot 2025-06-28 150718.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
