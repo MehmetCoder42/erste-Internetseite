@@ -18,6 +18,6 @@ Der Code dieses Projekts enthält, neben seinen relativ überschaubaren Elemente
 <h2>Projekt-Einblick:</h2>
 
 <p align="center">
-<img src="Wie holt man das Maximum aus Büchern raus.html" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Screenshot 2025-06-28 150624.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 </p>
