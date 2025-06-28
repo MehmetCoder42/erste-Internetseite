@@ -19,6 +19,6 @@ Der Code dieses Projekts enthält, neben seinen relativ überschaubaren Elemente
 
 <p align="center">
 
-<a href="https://mehmetcoder42.github.io/erste-Internetseite/">Internetseite</a>
+Klicke <a href="https://mehmetcoder42.github.io/erste-Internetseite/">hier</a>, um zur Internetseite zu gelangen
 
 </p>
